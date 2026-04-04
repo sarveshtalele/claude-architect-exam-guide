@@ -1,6 +1,6 @@
 # 🧠 Claude Certified Architect (CCA-F) — Study Guide & Resource Hub
 
-**A community resource built by a practitioner, for practitioners.**
+**I have passed the [Claude Architect Certification Exam](http://verify.skilljar.com/c/zutboqaezze2) this is a community resource built by a practitioner, for practitioners.**
 This is more than an exam prep guide; it’s a structured framework for developing real systems-level thinking with Claude.
 
 <a id="readme-top"></a>
