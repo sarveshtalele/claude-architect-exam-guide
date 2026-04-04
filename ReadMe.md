@@ -35,7 +35,7 @@ Here is exactly what you can expect:
 | Official CCA-F Portal | Anthropic's official Claude Certified Architect exam | [claudecertifications.com](https://claudecertifications.com/) |
 | Register for the Exam | Exam registration page | [Register →](https://claudecertifications.com/) |
 | 12-Week Official Study Plan | Anthropic's recommended preparation timeline | [Study Guide →](https://claudecertifications.com/claude-certified-architect/study-guide) |
-| Exam Guide PDF | Official exam blueprint and domain breakdown | *Link coming soon* |
+| Exam Guide PDF | Official exam blueprint and domain breakdown | [Link](https://github.com/sarveshtalele/claude-architect-exam-guide/blob/main/study-materials/Claude%20Architect%20Exam%20Guide.pdf) |
 
 ---
 
@@ -56,8 +56,8 @@ Don't just study about AI — use AI to study.
 
 | Resource | Description | Link |
 |---|---|---|
-| Claude Skill (SKILL.md) | A sample Claude skill I built specifically for exam preparation | *Coming soon* |
-| Prompt Engineering Templates | Curated prompts to practice and explore exam domains interactively | *Coming soon* |
+| Claude Skill (SKILL.md) | A sample Claude skill I built specifically for exam preparation | [Link](https://github.com/sarveshtalele/claude-architect-exam-guide/tree/main/prepare-with-prompts) |
+| Prompt Engineering Templates | Curated prompts to practice and explore exam domains interactively | [Link](https://github.com/sarveshtalele/claude-architect-exam-guide/tree/main/claude-skills) |
 
 
 
