@@ -45,7 +45,6 @@ Here is exactly what you can expect:
 | 12-Week Official Study Plan | Anthropic's recommended preparation timeline | [Study Guide →](https://claudecertifications.com/claude-certified-architect/study-guide) |
 | Exam Guide PDF | Official exam blueprint and domain breakdown | [Link](https://github.com/sarveshtalele/claude-architect-exam-guide/blob/main/study-materials/Claude%20Architect%20Exam%20Guide.pdf) |
 
----
 
 ## 🗺️ My Journey
 
