@@ -3,6 +3,14 @@
 **A community resource built by a practitioner, for practitioners.**
 This is more than an exam prep guide; it’s a structured framework for developing real systems-level thinking with Claude.
 
+<a id="readme-top"></a>
+
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarvesh%20Talele-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarveshtalele/)
+[![Medium](https://img.shields.io/badge/Medium-@sarveshtalele-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sarveshtalele)
+
+
 ## Why This Guide Exists
 
 Most AI learning roadmaps assume a technical background.
@@ -89,7 +97,7 @@ Follow along for new resources, LinkedIn content breakdowns, and community updat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarvesh%20Talele-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarveshtalele/)
 [![Medium](https://img.shields.io/badge/Medium-@sarveshtalele-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sarveshtalele)
 
----
+
 
 ## 🤝 Contributing
 
@@ -97,7 +105,14 @@ Found a broken link? Have a resource that helped you pass? PRs and issues are we
 
 This guide grows with the community. If you've passed the CCA-F exam and want to contribute your perspective, open an issue and let's talk.
 
----
+[forks-shield]: https://img.shields.io/github/forks/sarveshtalele/claude-architect-exam-guide.svg?style=for-the-badge
+[forks-url]: https://github.com/sarveshtalele/claude-architect-exam-guide/network/members
+[stars-shield]: https://img.shields.io/github/stars/sarveshtalele/claude-architect-exam-guide.svg?style=for-the-badge
+[stars-url]: https://github.com/sarveshtalele/claude-architect-exam-guide/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sarveshtalele/claude-architect-exam-guide.svg?style=for-the-badge
+[issues-url]: https://github.com/sarveshtalele/claude-architect-exam-guide/issues
+[license-shield]: https://img.shields.io/github/license/sarveshtalele/claude-architect-exam-guide.svg?style=for-the-badge
+[license-url]: https://github.com/sarveshtalele/claude-architect-exam-guide/blob/main/LICENSE
 
 <p align="center">
   <sub>Built with intention. Not just to pass an exam — but to think systematically ❤️.</sub>
