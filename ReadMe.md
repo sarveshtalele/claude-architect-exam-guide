@@ -41,7 +41,7 @@ Here is exactly what you can expect:
 | Resource | Description | Link |
 |---|---|---|
 | Official CCA-F Portal | Anthropic's official Claude Certified Architect exam | [Claude Certification Link](https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification/486716) |
-| Exam Guide PDF | Official exam blueprint and domain breakdown | [Link](https://github.com/sarveshtalele/claude-architect-exam-guide/blob/main/study-materials/Claude%20Architect%20Exam%20Guide.pdf) |
+| Exam Guide PDF | Official exam blueprint and domain breakdown | [Link](https://github.com/sarveshtalele/claude-architect-exam-guide/blob/main/study-materials/updated_Claude_certification_guide.pdf)
 
 
 ## 🗺️ My Journey
