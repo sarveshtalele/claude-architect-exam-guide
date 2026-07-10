@@ -40,9 +40,7 @@ Here is exactly what you can expect:
 
 | Resource | Description | Link |
 |---|---|---|
-| Official CCA-F Portal | Anthropic's official Claude Certified Architect exam | [claudecertifications.com](https://claudecertifications.com/) |
-| Register for the Exam | Exam registration page | [Register →](https://claudecertifications.com/) |
-| 12-Week Official Study Plan | Anthropic's recommended preparation timeline | [Study Guide →](https://claudecertifications.com/claude-certified-architect/study-guide) |
+| Official CCA-F Portal | Anthropic's official Claude Certified Architect exam | [Claude Certification Link](https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification/486716) |
 | Exam Guide PDF | Official exam blueprint and domain breakdown | [Link](https://github.com/sarveshtalele/claude-architect-exam-guide/blob/main/study-materials/Claude%20Architect%20Exam%20Guide.pdf) |
 
 
