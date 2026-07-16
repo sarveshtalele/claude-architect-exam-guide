@@ -112,7 +112,6 @@ what actually matters.
 | Title | Platform | Link |
 |---|---|---|
 | I Passed the Claude Architect Exam — Here's the `SKILL.md` Framework You Can Use to Learn and Pass Too | Medium | [Read →](https://medium.com/gitconnected/i-passed-the-claude-architect-exam-a-guide-to-create-your-own-claude-skill-md-to-get-certified-43d4c3d32ac1) |
-| I Built an AI Learning Roadmap for Everyone — From Age 10 to 75. Here's Why That Matters. | Medium | [Read →](https://medium.com/gitconnected/i-built-a-ai-learning-roadmap-for-everyone-from-age-10-to-75-here-is-why-that-matters-0f908d59866d) |
 | Step-by-Step Guide to Achieve Claude Architect Certification | Substack — Big Tech Careers | [Read →](https://newsletter.bigtechcareers.com/p/step-by-step-guide-to-achieve-claude-certification) |
 
 ---
