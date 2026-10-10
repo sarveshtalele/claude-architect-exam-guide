@@ -102,6 +102,7 @@ Start here if you're new to the Claude ecosystem.
 | Anthropic courses (API, prompting, tool use) | Anthropic | [github.com/anthropics/courses](https://github.com/anthropics/courses) |
 | All Anthropic courses | Anthropic (Skilljar) | [anthropic.skilljar.com](https://anthropic.skilljar.com/) |
 | Free CCA-F readiness diagnostic (10 questions, scored by domain) | CCA Practice Platforms | [claudecertifiedarchitects.com/diagnostic](https://www.claudecertifiedarchitects.com/diagnostic/) |
+| Free unofficial practice exams for CCAR-F (60 questions) and CCAR-P (63), plus CCAO-F and CCDV-F: timed, explanation for every answer, no signup | Szymon Paluch (independent) | [szymonpaluch.com/claude-certification-practice-exams](https://szymonpaluch.com/claude-certification-practice-exams) |
 
 ---
 
